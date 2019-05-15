@@ -1,0 +1,354 @@
+1557144410949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.YpE7N8Y72193"
+1557144414567	Marionette	INFO	Listening on port 59979
+1557144414994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557144415027	Marionette	DEBUG	[4294967297] Frame script loaded
+1557144415028	Marionette	DEBUG	[4294967297] Frame script registered
+1557144415054	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1557144415635	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557144416411	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557144416515	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.baidu.com/
+1557144416890	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1557144419915	Marionette	INFO	Stopped listening on port 59979
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1557144448412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.UHsJYqFJvjtb"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1557144451605	Marionette	INFO	Listening on port 59252
+1557144451869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557144451903	Marionette	DEBUG	[6442450945] Frame script loaded
+1557144451903	Marionette	DEBUG	[6442450945] Frame script registered
+1557144451932	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557144452380	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557144452949	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557144453018	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selenium%E8%87%AA%E5%AD%A6&json=1&p=3&sid=26525_1468_21087_28769_28721_28963_28836_28584_26350_28603_22158&req=2&csor=10&pwd=Selenium%E8%87%AA&cb=jQuery110209860698697604097_1557144452820&_=1557144452831, line 1: TypeError: jQuery110209860698697604097_1557144452820 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selenium%E8%87%AA&json=1&p=3&sid=26525_1468_21087_28769_28721_28963_28836_28584_26350_28603_22158&req=2&csor=9&pwd=Selenium&cb=jQuery110209860698697604097_1557144452820&_=1557144452830, line 1: TypeError: jQuery110209860698697604097_1557144452820 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selenium%E8%87%AA%E5%AD%A6%E7%BD%91&json=1&p=3&sid=26525_1468_21087_28769_28721_28963_28836_28584_26350_28603_22158&req=2&csor=11&pwd=Selenium%E8%87%AA%E5%AD%A6&cb=jQuery110209860698697604097_1557144452820&_=1557144452832, line 1: TypeError: jQuery110209860698697604097_1557144452820 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleniu&json=1&p=3&sid=26525_1468_21087_28769_28721_28963_28836_28584_26350_28603_22158&req=2&csor=7&pwd=Seleni&cb=jQuery110209860698697604097_1557144452820&_=1557144452828, line 1: TypeError: jQuery110209860698697604097_1557144452820 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selenium&json=1&p=3&sid=26525_1468_21087_28769_28721_28963_28836_28584_26350_28603_22158&req=2&csor=8&pwd=Seleniu&cb=jQuery110209860698697604097_1557144452820&_=1557144452829, line 1: TypeError: jQuery110209860698697604097_1557144452820 is not a function
+1557144453438	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E0108,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E002D,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E002D,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E002D,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E0108,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+1557144671749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.P4QvDgtCVQhX"
+1557144674721	Marionette	INFO	Listening on port 63473
+1557144675358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557144675398	Marionette	DEBUG	[6442450945] Frame script loaded
+1557144675399	Marionette	DEBUG	[6442450945] Frame script registered
+1557144675421	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557144675944	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557144676625	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557144676730	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1557144677094	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557144680118	Marionette	INFO	Stopped listening on port 63473
+[Child 8052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557144799512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.jBca59Cw09dD"
+1557144802713	Marionette	INFO	Listening on port 62868
+1557144802896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557144802932	Marionette	DEBUG	[6442450945] Frame script loaded
+1557144802933	Marionette	DEBUG	[6442450945] Frame script registered
+1557144802954	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557144805529	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557144805913	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557144806005	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1557144806372	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557144809382	Marionette	INFO	Stopped listening on port 62868
+[Parent 3412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557144846041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.0wtyo8hgxwqA"
+1557144848898	Marionette	INFO	Listening on port 62938
+1557144849399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557144849444	Marionette	DEBUG	[6442450945] Frame script loaded
+1557144849444	Marionette	DEBUG	[6442450945] Frame script registered
+1557144849466	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557144849838	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1557144850269	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557144850365	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1557144850735	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557144854101	Marionette	DEBUG	[6442450949] Frame script loaded
+1557144854115	Marionette	DEBUG	[6442450949] Frame script registered
+1557144854139	Marionette	DEBUG	[6442450952] Frame script loaded
+1557144854142	Marionette	DEBUG	[6442450952] Frame script registered
+1557144859103	Marionette	INFO	Stopped listening on port 62938
+[Child 10388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1557145316606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.lxJN2JBDtZkO"
+1557145319547	Marionette	INFO	Listening on port 63158
+1557145320152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557145320178	Marionette	DEBUG	[6442450945] Frame script loaded
+1557145320179	Marionette	DEBUG	[6442450945] Frame script registered
+1557145320201	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557145320853	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557145321175	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557145321293	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1557145321684	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557145325104	Marionette	DEBUG	[6442450949] Frame script loaded
+1557145325106	Marionette	DEBUG	[6442450949] Frame script registered
+1557145325127	Marionette	DEBUG	[6442450952] Frame script loaded
+1557145325127	Marionette	DEBUG	[6442450952] Frame script registered
+1557145330071	Marionette	INFO	Stopped listening on port 63158
+[Child 1404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557147551430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.iX5FPmD3oyg7"
+1557147554556	Marionette	INFO	Listening on port 64542
+1557147555214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557147555246	Marionette	DEBUG	[6442450945] Frame script loaded
+1557147555247	Marionette	DEBUG	[6442450945] Frame script registered
+1557147555268	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557147555961	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557147556531	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557147556586	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1557147556997	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557147560435	Marionette	DEBUG	[6442450949] Frame script loaded
+1557147560458	Marionette	DEBUG	[6442450949] Frame script registered
+1557147560481	Marionette	DEBUG	[6442450952] Frame script loaded
+1557147560481	Marionette	DEBUG	[6442450952] Frame script registered
+1557147565439	Marionette	INFO	Stopped listening on port 64542
+[Child 5600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557149049874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.drFcGsQ3GXQF"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1557149053091	Marionette	INFO	Listening on port 62166
+1557149053691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557149053718	Marionette	DEBUG	[6442450945] Frame script loaded
+1557149053719	Marionette	DEBUG	[6442450945] Frame script registered
+1557149053740	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557149054432	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557149054789	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557149054837	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1557149055209	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557149058612	Marionette	DEBUG	[6442450949] Frame script loaded
+1557149058633	Marionette	DEBUG	[6442450949] Frame script registered
+1557149058659	Marionette	DEBUG	[6442450952] Frame script loaded
+1557149058660	Marionette	DEBUG	[6442450952] Frame script registered
+1557149063610	Marionette	INFO	Stopped listening on port 62166
+[Parent 9204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557149345782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ulMotu9CXKfG"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1557149348923	Marionette	INFO	Listening on port 49803
+1557149349598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557149349631	Marionette	DEBUG	[6442450945] Frame script loaded
+1557149349631	Marionette	DEBUG	[6442450945] Frame script registered
+1557149349657	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557149350185	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557149350727	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557149350778	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1557149351148	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557149354454	Marionette	DEBUG	[6442450949] Frame script loaded
+1557149354476	Marionette	DEBUG	[6442450949] Frame script registered
+1557149354494	Marionette	DEBUG	[6442450952] Frame script loaded
+1557149354497	Marionette	DEBUG	[6442450952] Frame script registered
+1557149359466	Marionette	INFO	Stopped listening on port 49803
+[Child 14196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557149853425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.95JjRHUdD0UG"
+1557149856943	Marionette	INFO	Listening on port 50154
+1557149857412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557149857463	Marionette	DEBUG	[6442450945] Frame script loaded
+1557149857464	Marionette	DEBUG	[6442450945] Frame script registered
+1557149857485	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557149858077	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557149858656	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557149858703	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1557149859079	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557149862486	Marionette	DEBUG	[6442450949] Frame script loaded
+1557149862500	Marionette	DEBUG	[6442450949] Frame script registered
+1557149862517	Marionette	DEBUG	[6442450952] Frame script loaded
+1557149862521	Marionette	DEBUG	[6442450952] Frame script registered
+1557149867488	Marionette	INFO	Stopped listening on port 50154
+[Parent 8276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557149968809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.mtcHr6JAk1l0"
+1557149971869	Marionette	INFO	Listening on port 52493
+1557149972301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557149972338	Marionette	DEBUG	[6442450945] Frame script loaded
+1557149972339	Marionette	DEBUG	[6442450945] Frame script registered
+1557149972360	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557149972786	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557149973453	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557149973506	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1557149973877	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557149977369	Marionette	DEBUG	[6442450949] Frame script loaded
+1557149977389	Marionette	DEBUG	[6442450949] Frame script registered
+1557149977407	Marionette	DEBUG	[6442450952] Frame script loaded
+1557149977414	Marionette	DEBUG	[6442450952] Frame script registered
+1557149982372	Marionette	INFO	Stopped listening on port 52493
+[Child 14320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557150240149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.25qBZ0cIYT0r"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1557150243410	Marionette	INFO	Listening on port 55924
+1557150247072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557150247126	Marionette	DEBUG	[6442450945] Frame script loaded
+1557150247127	Marionette	DEBUG	[6442450945] Frame script registered
+1557150247157	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557150248484	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557150248777	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557150248822	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1557150249181	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557150252529	Marionette	DEBUG	[6442450949] Frame script loaded
+1557150252540	Marionette	DEBUG	[6442450949] Frame script registered
+1557150252572	Marionette	DEBUG	[6442450952] Frame script loaded
+1557150252572	Marionette	DEBUG	[6442450952] Frame script registered
+1557150257537	Marionette	INFO	Stopped listening on port 55924
+[Parent 11860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557454265263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.pbPecTRN4kmm"
+1557454272362	Marionette	INFO	Listening on port 60785
+1557454272832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557454272900	Marionette	DEBUG	[6442450945] Frame script loaded
+1557454272928	Marionette	DEBUG	[6442450945] Frame script registered
+1557454273041	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1557454273840	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1557454274505	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557454274550	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1557454274963	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557454278302	Marionette	DEBUG	[6442450949] Frame script loaded
+1557454278326	Marionette	DEBUG	[6442450949] Frame script registered
+1557454278348	Marionette	DEBUG	[6442450952] Frame script loaded
+1557454278349	Marionette	DEBUG	[6442450952] Frame script registered
+1557454283285	Marionette	INFO	Stopped listening on port 60785
+[Parent 11208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11208, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 11208, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 1912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1557454304423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.3yaxOXregEhY"
+1557454307524	Marionette	INFO	Listening on port 60921
+1557454307820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557454307846	Marionette	DEBUG	[4294967297] Frame script loaded
+1557454307847	Marionette	DEBUG	[4294967297] Frame script registered
+1557454307865	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1557454308335	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1557454308751	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1557454308950	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.baidu.com/
+1557454309337	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1557454312696	Marionette	DEBUG	[4294967301] Frame script loaded
+1557454312709	Marionette	DEBUG	[4294967301] Frame script registered
+1557454312722	Marionette	DEBUG	[4294967304] Frame script loaded
+1557454312727	Marionette	DEBUG	[4294967304] Frame script registered
+1557454317699	Marionette	INFO	Stopped listening on port 60921
+[Child 10304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
