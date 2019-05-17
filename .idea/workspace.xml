@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="508adb28-68fa-4398-992c-ef83e1fef657" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/.idea/Sunfobank_test.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/run_test/ghostdriver.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/run_test/run_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_case/model/function.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_case/model/myunit.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_case/page_object/BasePage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_case/page_object/LoginPage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_case/test_login.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_report/2019-05-15 16_52_19result.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_report/2019-05-15 16_53_36result.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_report/2019-05-15 17_20_32result.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_report/screenshot/baidu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_report/screenshot/baidu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_report/screenshot/teat_login2_pwdError.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_report/screenshot/test_login1_normal.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/Website/test_report/screenshot/test_login3_empty.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sunfobank_test/AutoTest/driver/driver.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my_AutoTest/Driver/Driver.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my_AutoTest/geckodriver.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my_AutoTest/test_case/public.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python_work.iml" afterPath="$PROJECT_DIR$/.idea/Python_work.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/51zxw/.idea/workspace.xml" afterPath="$PROJECT_DIR$/51zxw/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="508adb28-68fa-4398-992c-ef83e1fef657" name="Default" comment="" />
     <ignored path="Python_work.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,8 +90,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="573" />
-    <option name="y" value="54" />
+    <option name="x" value="616" />
+    <option name="y" value="24" />
     <option name="width" value="1936" />
     <option name="height" value="981" />
   </component>
@@ -161,6 +132,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -463,7 +444,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="573" y="54" width="1936" height="981" extended-state="0" />
+    <frame x="616" y="24" width="1936" height="981" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27871445" sideWeight="0.8425605" order="0" side_tool="false" content_ui="combo" />
