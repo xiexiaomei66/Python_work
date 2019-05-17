@@ -5,7 +5,12 @@
       <sourceFolder url="file://$MODULE_DIR$/51zxw/Chapter5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/51zxw/Chapter6_unittest/Test_Project" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/51zxw/Chapter7_SendEmail/PageObject" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/my_AutoTest/Driver" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my_AutoTest/test_case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my_AutoTest/test_report" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my_AutoTest/public_method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my_AutoTest/page_object" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my_AutoTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sunfobank_test/AutoTest/Website/test_case/model" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
